@@ -1,4 +1,3 @@
-import { returnError } from "../middleware/ErrorHandler.js";
 import User from "./userModel.js";
 
 const SaveUser = async (user) => {
